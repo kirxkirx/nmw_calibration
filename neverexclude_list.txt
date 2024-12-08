@@ -8,3 +8,5 @@
 21:42:42.80 +43:35:09.9 SS Cyg - VSNET XRISM campaign
 06:29:34.09 +71:04:37.0 BZ Cam - AAVSO HST campaign
 22:54:03.78 +58:54:01.6 V730 Cep - AAVSO campaign
+08:28:36.93 +25:20:03.0 AT Cnc - interesting CV
+06:33:01.09 +03:03:34.7 Gaia DR3 3130088774241620608 - interesting CV
