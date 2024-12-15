@@ -10,3 +10,14 @@
 22:54:03.78 +58:54:01.6 V730 Cep - AAVSO campaign
 08:28:36.93 +25:20:03.0 AT Cnc - interesting CV
 06:33:01.09 +03:03:34.7 Gaia DR3 3130088774241620608 - interesting CV
+08:12:28.27 +62:36:22.4 SU UMa - radio detected CV
+07:55:05.21 +22:00:04.8 U Gem - radio detected CV
+19:38:40.11 +30:30:28.4 EM Cyg - radio detected CV
+01:04:35.54 +41:17:57.8 RX And - radio detected CV
+08:10:56.65 +28:08:33.2 YZ Cnc - radio detected CV
+08:25:13.18 +73:06:39.1 Z Cam - radio detected CV
+14:44:01.21 +22:00:54.8 UZ Boo - posibly radio detected CV
+01:25:39.36 +32:23:08.9 TY Psc - posibly radio detected CV
+23:23:08.54 +18:24:59.2 IP Peg - radio detected CV
+18:07:51.69 +05:51:47.8 V426 Oph - radio detected CV
+22:14:02.55 +12:42:11.3 RU Peg - radio detected CV
