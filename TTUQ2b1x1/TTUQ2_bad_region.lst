@@ -12,5 +12,6 @@
 # its X Y coordinates:
 0 0
 # You may specify many bad regions.
-8500 0 9576 6388
-7500 0 9576 2000
+#8500 0 9576 6388
+#7500 0 9576 2000
+7500 0 9576 6388
