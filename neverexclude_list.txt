@@ -26,3 +26,13 @@
 16:57:41.22 -32:20:35.7 V1280 Sco - AAVSO campaign old nova
 05:28:59.57 -03:33:52.3 V1159 Ori - AAVSO campaign Knigge radio until 2025 April 15
 07:21:53.45 +71:20:36.4 PKS 0716+71 - blazar (AAVSO name)
+14:22:30.38 +32:23:10.4 QSO B1420+326 - blazar (AAVSO name)
+22:02:43.29 +42:16:40.0 BL Lac - blazar
+22:53:57.75 +16:08:53.6 3C 454.3 - blazar
+12:29:06.70 +02:03:08.6 3C 273 - blazar
+12:56:11.17 -05:47:21.5 3C 279 - blazar
+08:54:48.88 +20:06:30.6 OJ 287 - blazar
+
+
+
+
