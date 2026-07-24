@@ -11,3 +11,4 @@
 08:54:48.88 +20:06:30.6 OJ 287 - blazar
 18:43:58.56 +01:52:48.5 AT 2026lck - new recurrent nova
 18:52:03.56 -01:28:39.2 CI Aql - recurrent nova
+09:04:41.51 -32:22:47.6 T Pyx - recurrent nova
