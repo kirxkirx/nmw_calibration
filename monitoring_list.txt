@@ -22,3 +22,20 @@
 17:50:13.17 -06:42:28.6 RS Oph - recurrent nova
 17:55:22.23 -33:14:58.6 V745 Sco - recurrent nova
 18:30:43.29 -24:01:08.9 V3890 Sgr - recurrent nova
+19:45:06.49 +18:22:42.1 V488 Sge - Nova Sagittae 2026
+21:42:42.80 +43:35:09.9 SS Cyg - dwarf nova
+07:55:05.21 +22:00:04.8 U Gem - dwarf nova
+08:12:28.27 +62:36:22.4 SU UMa - dwarf nova
+14:51:51.32 +66:13:24.2 TCP J14515140+6613240 - dwarf nova
+17:52:06.799 -23:43:20.71 ASASSN-26fc - Possible Galactic Nova
+01:28:08.063376 +49:01:05.98547 GB6 J0128+4901 - blazar
+22:03:46.3082808 -11:07:57.736272 TCP J22034629-1107578
+18:07:51.69 +05:51:47.8 V426 Oph - radio detected CV
+19:38:40.11 +30:30:28.4 EM Cyg - radio detected CV
+01:04:35.54 +41:17:57.8 RX And - radio detected CV
+08:10:56.65 +28:08:33.2 YZ Cnc - radio detected CV
+08:25:13.18 +73:06:39.1 Z Cam - radio detected CV
+14:44:01.21 +22:00:54.8 UZ Boo - posibly radio detected CV
+01:25:39.36 +32:23:08.9 TY Psc - posibly radio detected CV
+23:23:08.54 +18:24:59.2 IP Peg - radio detected CV
+22:14:02.55 +12:42:11.3 RU Peg - radio detected CV
