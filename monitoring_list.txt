@@ -39,3 +39,5 @@
 01:25:39.36 +32:23:08.9 TY Psc - posibly radio detected CV
 23:23:08.54 +18:24:59.2 IP Peg - radio detected CV
 22:14:02.55 +12:42:11.3 RU Peg - radio detected CV
+19:02:26.98 +18:14:41.5 TCP J19022698+1814415
+05:38:07.38 +36:03:42.2 TCP J05380738+3603422
